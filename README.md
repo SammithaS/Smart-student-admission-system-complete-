@@ -12,9 +12,11 @@ Truffle
 MetaMask
 ## Design
 REGISTRATION COMPONENT: 
+
 ![image](https://github.com/SammithaS/Smart-student-admission-system-complete-/assets/121117205/a88d7df5-eda0-46fe-b4d7-e4f928af071c)
 
 SEAT ALLOTMENT:
+
 ![image](https://github.com/SammithaS/Smart-student-admission-system-complete-/assets/121117205/b6c4e4d4-ffde-4dc3-be4e-edac23114380)
 
 ## Snapshots
