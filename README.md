@@ -25,11 +25,8 @@ SEAT ALLOTMENT:
 REGISTRATION COMPONENT: 
 
 ![image](https://github.com/SammithaS/Smart-student-admission-system-complete-/assets/121117205/d9fe9c31-997f-4ede-a4da-3fd142759468)
-
 ![image](https://github.com/SammithaS/Smart-student-admission-system-complete-/assets/121117205/c0a0756d-d96e-4194-a78c-e6b3f7f9b7e7)
-
 ![image](https://github.com/SammithaS/Smart-student-admission-system-complete-/assets/121117205/22fd9dcf-f8b7-495e-90ba-35a67236adb4)
-
 ![image](https://github.com/SammithaS/Smart-student-admission-system-complete-/assets/121117205/4b37197f-3508-447d-aa3d-70f67ad238f8)
 
 ![image](https://github.com/SammithaS/Smart-student-admission-system-complete-/assets/121117205/214742ed-d8a2-4416-9ba1-31e2773d9d50)
