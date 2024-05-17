@@ -5,7 +5,7 @@
 - Clone the repo
 
 ```
-git clone https://github.com/pkini2002/Registration-Backend.git
+git clone https://github.com/SammithaS/Smart-student-admission-system-complete-.git
 ```
 
 <br>
