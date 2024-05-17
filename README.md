@@ -13,8 +13,7 @@ MetaMask
 ## Design
 REGISTRATION COMPONENT: 
 
-![Uploading image.png…]()
-
+![image](https://github.com/SammithaS/Smart-student-admission-system-complete-/assets/121117205/3afe635c-fbc7-42e5-b7c9-e8189e1e3b33)
 
 SEAT ALLOTMENT:
 
