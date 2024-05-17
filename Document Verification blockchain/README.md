@@ -18,9 +18,13 @@ Web3.js
 Metamask 
 
 # Steps to run
+1)- Clone the repo
+  ```
+  https://github.com/Final-Year-Project-Team-3-CSE/Seat_Allotment_final.git
+  ```
 
-1)Run ganache
+2)Run ganache
 
-2)Run your website on localhost
+3)Run cloned website on localhost
 
-3)Enter metamask wallet password
+4)Enter metamask wallet password
