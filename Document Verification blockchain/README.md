@@ -20,9 +20,8 @@ Metamask
 # Steps to run
 1)- Clone the repo
   ```
-  https://github.com/Final-Year-Project-Team-3-CSE/Seat_Allotment_final.git
+  git clone https://github.com/SammithaS/Smart-student-admission-system-complete-.git
   ```
-
 2)Run ganache
 
 3)Run cloned website on localhost
